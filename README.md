@@ -62,6 +62,4 @@ las mismas reglas de negocio que la versión anterior en Node.js (esa sí
 probada y funcionando en vivo), así que el riesgo de errores es bajo,
 pero **antes de usarlo en producción, corre ambos proyectos localmente y
 prueba el flujo completo** (ver catálogo, reservar, entrar al panel
-admin, registrar una venta, editar stock, descargar los PDF). Si algo no
-compila a la primera, probablemente sea un detalle menor de sintaxis o
-de versión de algún paquete — dímelo y lo corregimos.
+admin, registrar una venta, editar stock, descargar los PDF). 
